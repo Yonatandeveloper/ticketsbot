@@ -1,0 +1,11 @@
+{
+    "botConfig": [
+        {
+            "guildid": "0", 
+            "staffrole": "0", 
+            "token": "token",
+            "ticketscategory": "0"
+
+        }
+    ]
+}
